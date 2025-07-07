@@ -3,7 +3,7 @@
 Este repositorio contiene mi currículum profesional en formato web estático. 
 ## Descripción
 
-El sitio web es un currículum personal desarrollado con HTML y CSS, con un diseño sencillo y moderno. Se encuentra alojado en Azure Blob Storage, por lo que es accesible de forma pública.
+El sitio web es un currículum personal desarrollado con HTML y CSS. Se encuentra alojado en Azure Blob Storage, por lo que es accesible de forma pública.
 
 ## Enlaces
 
